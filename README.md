@@ -207,9 +207,8 @@ GET /api/admin/dashboard
 
 ### View All Users
 
-```text
-GET /api/admin/users
-```
+
+
 
 ### View All Accounts
 
